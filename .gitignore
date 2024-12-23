@@ -1,3 +1,7 @@
 playground-series-s4e12/
 credit_score_pretrained_model.h5
 playground-series-s4e12.zip
+classification_base_model.h5
+insurance_premium_model.h5
+Submission.csv
+classification_base_model_pm.h5
